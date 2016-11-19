@@ -2,7 +2,7 @@
 <widget id="com.moodle.moodlemobile" version="3.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Dreamz Academy</name>
   <description>IIT JEE Bank CPT NEET UPSC Prelim Exams Dreamz Academy</description>
-  <author href="http://dreamzacademy.in" email="pmarulmani@gmail.com">Juan Leyva</author>
+  <author href="http://dreamzacademy.in" email="pmarulmani@gmail.com">Arulmani M</author>
   <content src="index.html"/>
   <access origin="*"/>
 
